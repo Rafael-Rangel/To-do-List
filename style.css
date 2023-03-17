@@ -8,9 +8,10 @@
 }
 
 body {
-  background-image: url(https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/astronomos-estan-desconcertados-100-estrellas-han-desaparecido-cielo-ultimos-50-anos.jpg?tf=1200x);
+  background-image: url(https://images.unsplash.com/photo-1649490211643-47d35cce877c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80);
   background-position: center;
   background-size: cover;
+  background-repeat: no-repeat;
 }
 
 button {
